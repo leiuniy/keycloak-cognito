@@ -1,0 +1,26 @@
+/* CustomTopNavigation 样式 */
+.custom-top-navigation {
+  height: 80px;
+  background-color: #232f3e;
+  display: flex;
+  align-items: center;
+  padding: 0 20px;
+  border-bottom: 1px solid #ddd;
+}
+
+.custom-top-navigation__link {
+  display: flex;
+  align-items: center;
+  text-decoration: none;
+  color: white;
+}
+
+.custom-top-navigation__logo {
+  height: 32px;
+  margin-right: 12px;
+}
+
+.custom-top-navigation__title {
+  font-size: 16px;
+  font-weight: 500;
+}
